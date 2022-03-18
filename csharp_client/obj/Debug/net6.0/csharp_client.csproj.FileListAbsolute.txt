@@ -1,0 +1,5 @@
+/home/petr/projects/QuickListsWS/examples/csharp_client/obj/Debug/net6.0/csharp_client.csproj.AssemblyReference.cache
+/home/petr/projects/QuickListsWS/examples/csharp_client/obj/Debug/net6.0/csharp_client.GeneratedMSBuildEditorConfig.editorconfig
+/home/petr/projects/QuickListsWS/examples/csharp_client/obj/Debug/net6.0/csharp_client.AssemblyInfoInputs.cache
+/home/petr/projects/QuickListsWS/examples/csharp_client/obj/Debug/net6.0/csharp_client.AssemblyInfo.cs
+/home/petr/projects/QuickListsWS/examples/csharp_client/obj/Debug/net6.0/csharp_client.csproj.CoreCompileInputs.cache
